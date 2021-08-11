@@ -1,0 +1,2 @@
+# Mukul_project_of_data_analysis_
+Pandas is a popular Python library used for working in tabular data (similar to the data stored in a spreadsheet). Pandas provides helper functions to read data from various file formats like CSV, Excel spreadsheets, HTML tables, JSON, SQL, and more. Let's download a file italy-covid-daywise.txt which contains day-wise Covid-19 data for Italy in the following format:  date,new_cases,new_deaths,new_tests
